@@ -1,6 +1,3 @@
-This repository contains some practical notebooks on ML for the purpose of demostrating knowledge of such Python libraries as
-- sklearn
-- numpy
-- pandas
-- matplotlib, seaborn
+This repository contains completed homework assignments of classical ML tasks solved in Jupyter Notebooks. 
 
+Notebooks cover such topics as exploratory data analysis, data classification and regression using linear models, decision trees,  ensembles, and gradient boosting, bias-variance decomposition. Some models like decision trees and boosting were builded from scratch 
